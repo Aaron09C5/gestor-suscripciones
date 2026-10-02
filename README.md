@@ -21,8 +21,6 @@ Creé esta aplicación porque necesitaba una forma sencilla y visual de llevar e
 | :---: | :---: | :---: |
 | <img src="screenshots/inicio.png" width="260"/> | <img src="screenshots/presupuesto.png" width="260"/> | <img src="screenshots/perfil.png" width="260"/> |
 
-*(Para que las imágenes aparezcan, añade tus capturas dentro de la carpeta screenshots/ con los nombres indicados).*
-
 ---
 
 ## Herramientas utilizadas
